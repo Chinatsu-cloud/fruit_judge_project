@@ -18,6 +18,6 @@ public class MapMain{
 
         System.out.println(thingsMap.get("ミカン"));
         System.out.println(thingsMap.get("トマト"));
-        System.out.println(thingsMap.get("イチゴ"));
+        System.out.println(thingsMap.get("レモン"));
     }
 }
